@@ -1,0 +1,26 @@
+[
+	{
+		"depot" : "102",
+		"client" : "101117",
+		"bureausortie" : "ES000812",
+		"modfrotra" : 1
+	},
+	{
+		"depot" : "102",
+		"client" : "101166",
+		"bureausortie" : "NL000856",
+		"modfrotra" : 1
+	},
+	{
+		"depot" : "102",
+		"client" : "101531",
+		"bureausortie" : "FR00677A",
+		"modfrotra" : 4
+	},
+	{
+		"depot" : "102",
+		"client" : "101909",
+		"bureausortie" : "FR002300",
+		"modfrotra" : 1
+	}
+]
